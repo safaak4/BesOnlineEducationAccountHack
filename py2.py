@@ -3,10 +3,10 @@ go('https://besuzaktanegitim.com/')
 
 linklerdosyası = open("linklertxt.txt", "w")
 
-isim = ["Mehmet Bozkurt", "Dilara Katılmış", "Zeynep Sarıkaya", "Senanur Topuz", "Ender Emre Hayırlıoğlu", "Berke Rafet Uluocak" , "Zeynep Özel",
-"Cuma Şafak Kara", "Aleyna Yağmur Dinç", "İsmail Çalışkan", "Sarp Kaya", "Hasan Tolga Akkaya", "Ümit Arda", "İrem Tuğçe",
-"Sahra Nur Yıldırım", "Melis Nur Türen", "HÜSEYİN EMRE ÇINAR", "EMRE CİNGİLER", "Abdulkerim Güler", "Tuğçe İnce", "Rojin Çelik", "Ahmet Ay", "Lütfü Emir Alakoca",
-"Özlem Sel"]
+isim = ["Mehmet B***", "Dilara K***", "Zeynep S***", "Senanur T***", "Ender Emre H***", "Berke Rafet U***" , "Zeynep Ö***",
+"Cuma Şafak K***", "Aleyna Yağmur D***", "İsmail Ç***", "Sarp K***", "Hasan Tolga A***", "Ümit A***", "İrem T***",
+"Sahra Nur Y***", "Melis Nur T***", "HÜSEYİN EMRE Ç***", "EMRE C***", "Abdulkerim G***", "Tuğçe İ***", "Rojin Ç***", "Ahmet A***", "Lütfü Emir A***",
+"Özlem S***"]
 
 kullaniciadi = ["350296", "350397", "350298", "350299", "350300", "350301", "350302", "350303", "350305", "350306",
                 "350307", "350308", "350309", "350310", "350311", "350312", "350314", "350315", "350316", "350317",
